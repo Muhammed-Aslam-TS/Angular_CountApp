@@ -1,0 +1,40 @@
+.container{
+  background-color: rgb(255, 230, 70);
+  width: 50%;
+
+ margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 70px;
+}
+.input{
+  border:none;
+  background: transparent;
+  border-bottom: 1px solid #515151;
+}
+.input:focus {
+  outline: none;
+ }
+.hidden{
+  color: rgb(0, 100, 0);
+}
+
+
+.btn-donate1{
+  background-color:rgb(34, 107, 0);
+  border:none;
+  color:aliceblue;
+  width: 150;
+  height:auto;
+  justify-content: space-between;
+}
+
+.btn-donate{
+  background-color:rgb(197, 0, 0);
+  border:none;
+  color:aliceblue;
+  width: 150;
+  height:auto;
+  justify-content: space-between;
+}
+
